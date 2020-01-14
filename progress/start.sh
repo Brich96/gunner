@@ -1,0 +1,1 @@
+cp body.sh start.sh $HOME/AppData/Roaming/Microsoft/Windows/"Start Menu"/Programs/Startup
